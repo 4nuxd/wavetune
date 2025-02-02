@@ -1,6 +1,6 @@
 # 🎵 WaveTune - Web-Based Telegram Music Bot
 
-WaveTune is a **feature-rich Telegram music bot** that combines the best features of [YukkiMusicBot](https://github.com/TeamYukki/YukkiMusicBot) and [Thunder](https://github.com/Codersfreedom/Thunder), bringing a **modern web-based GUI** experience to music streaming within Telegram. Built with **TypeScript**, it offers efficiency, scalability, and seamless integration with **Telegram Mini Apps**.
+WaveTune is a **feature-rich Telegram music bot** that combines the best features of existing music bots, bringing a **modern web-based GUI** experience to music streaming within Telegram. Built with **TypeScript**, it offers efficiency, scalability, and seamless integration with **Telegram Mini Apps**.
 
 ## 🚀 Features
 - **🌐 Web-Based GUI** – A responsive and interactive UI for seamless music control.
@@ -32,7 +32,7 @@ Edit the `.env` file with your **Bot Token**, **API Keys**, and **Admin IDs**.
 
 ### 4️⃣ Start the Bot
 ```bash
-npm run start
+npm run dev
 ```
 
 ## 🎛️ Usage
@@ -41,17 +41,27 @@ npm run start
 3. **Control music via the Web GUI** (Accessible via Telegram Mini Apps).
 4. **Manage playlists, listen to live radio, and enjoy a premium music experience!**
 
+### 🔹 Vercel  
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/4nuxd/wavetune/)  
+
 ## 🤝 Contributions
 We welcome contributions! Feel free to **fork**, **open issues**, or **submit pull requests** to improve WaveTune.
 
 ## 🔗 Links
 - **GitHub Repository**: [WaveTune](https://github.com/4nuxd/WaveTune)
-- **Based on**: [YukkiMusicBot](https://github.com/TeamYukki/YukkiMusicBot) & [Thunder](https://github.com/Codersfreedom/Thunder)
 - **License**: MIT License
 
 ## 📜 License
 This project is licensed under the **MIT License** – you are free to use, modify, and distribute it.
 
 ---
-💡 *Enjoy seamless music streaming with WaveTune!* 🎧🔥
 
+### Credits
+WaveTune is inspired by and built upon the work of the following projects:
+- **[YukkiMusicBot](https://github.com/TeamYukki/YukkiMusicBot)** – A feature-rich Telegram music bot.
+- **[Thunder](https://github.com/r2hu1/MusicHub)** – A powerful music streaming bot for Telegram.
+
+---
+
+💡 *Enjoy seamless music streaming with WaveTune!* 🎧🔥
